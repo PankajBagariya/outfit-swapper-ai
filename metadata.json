@@ -1,0 +1,5 @@
+{
+  "name": "Outfit Swapper AI",
+  "description": "An AI-powered app that allows users to swap their outfits with any provided outfit image. The app intelligently replaces the user’s clothing with the chosen outfit using Google’s image model, ensuring realistic alignment, texture blending, and natural looks.",
+  "requestFramePermissions": []
+}
